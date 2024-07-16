@@ -1,6 +1,30 @@
 Coding Note Khata
 
 
+
+MUI
+
+npx create-react-app my-app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 --------------------------------
 daisy ui setup // react setup
 ---------------------------------------------------------
