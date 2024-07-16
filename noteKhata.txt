@@ -1,8 +1,8 @@
-React Note Khata
+Coding Note Khata
 
 
 --------------------------------
-daisy ui
+daisy ui setup // react setup
 ---------------------------------------------------------
 
 githab project name 
