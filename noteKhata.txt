@@ -21,7 +21,6 @@ npm install react-icons --save
 npm install sweetalert2
 
 
-
 content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
@@ -37,6 +36,7 @@ index.css file e
 @tailwind utilities;
 
 npm run dev
+
 
 ------------------------------------------------------------------------
 main.jsx
@@ -156,10 +156,6 @@ app.listen(port, () => {
 
 
 
-
-
-
-Sajib Note:
 Server SetUp:
 ব্যাকেন্ড আহমরি কিছু না। প্রথমে express, cors,npm, Mongodb এসব ইনস্টল করতে হবে। তারপরে express এর কিছু require কোর্ড লিখতে হয়।
 const express = require('express')
