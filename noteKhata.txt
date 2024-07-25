@@ -1,8 +1,32 @@
-React Note Khata
+Coding Note Khata
+
+
+
+MUI
+
+npx create-react-app my-app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 --------------------------------
-daisy ui
+daisy ui setup // react setup
 ---------------------------------------------------------
 
 githab project name 
